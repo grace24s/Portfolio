@@ -82,12 +82,12 @@ class MainActivity : ComponentActivity() {
                 ),
                 Project(
                     title = "Post App Project",
-                    description = "Posts adalah aplikasi web yang dikembangkan oleh Kelompok 8 dalam mata kuliah Pengembangan Aplikasi Berbasis Web (PABWE) tahun 2024 di Institut Teknologi Del. Aplikasi ini bertujuan untuk memungkinkan pengguna membuat, mengelola, dan menampilkan postingan secara dinamis. Dengan antarmuka yang responsif dan interaktif, pengguna dapat dengan mudah menambahkan konten, melihat daftar postingan, serta melakukan pengelolaan data secara efisien.",
+                    description = "Aplikasi ini bertujuan untuk memungkinkan pengguna membuat, mengelola, dan menampilkan postingan secara dinamis. Dengan antarmuka yang responsif dan interaktif, pengguna dapat dengan mudah menambahkan konten, melihat daftar postingan, serta melakukan pengelolaan data secara efisien.",
                     technologies = listOf("React.js", "CSS", "Vite", "npm (Node.js)")
                 ),
                 Project(
                     title = "Portfolio",
-                    description = "Portfolio adalah aplikasi Android yang dikembangkan menggunakan Kotlin. Aplikasi ini bertujuan untuk menampilkan portofolio pribadi, yang mencakup informasi seperti profil, proyek, pengalaman kerja, dan keterampilan. Dengan antarmuka yang intuitif dan desain yang responsif, aplikasi ini memungkinkan pengguna untuk mempresentasikan informasi pribadi mereka secara profesional dan menarik.",
+                    description = "Portfolio bertujuan untuk menampilkan portofolio pribadi, yang mencakup informasi seperti profil, proyek, pengalaman kerja, dan keterampilan. Dengan antarmuka yang intuitif dan desain yang responsif, aplikasi ini memungkinkan pengguna untuk mempresentasikan informasi pribadi mereka secara profesional dan menarik.",
                     technologies = listOf("Kotlin", "Android SDK", "Gradle", "Android Studio")
                 )
             ),
