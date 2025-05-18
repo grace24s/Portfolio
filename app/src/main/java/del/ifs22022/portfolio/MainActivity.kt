@@ -66,9 +66,9 @@ class MainActivity : ComponentActivity() {
             ),
             projects = listOf(
                 Project(
-                    title = "E-Commerce App",
-                    description = "Aplikasi e-commerce untuk UMKM lokal dengan fitur pembayaran terintegrasi dan tracking pengiriman. Aplikasi ini membantu penjual kecil dan menengah untuk menjangkau pasar yang lebih luas melalui platform digital.",
-                    technologies = listOf("Kotlin", "MVVM", "Retrofit", "Room", "Firebase")
+                    title = "Sistem Informasi Manajemen Bimbingan Mahasiswa dan Perwalian (SIMBA) Website Project",
+                    description = "SIMBA (Sistem Informasi Manajemen Bimbingan Akademik) adalah aplikasi web berbasis Laravel yang dirancang untuk memfasilitasi proses bimbingan akademik antara dosen dan mahasiswa. Aplikasi ini memungkinkan mahasiswa untuk mengajukan bimbingan, mengunggah dokumen terkait, serta memantau status bimbingan mereka. Sementara itu, dosen dapat mengelola permintaan bimbingan, memberikan umpan balik, dan memantau perkembangan mahasiswa secara efisien.",
+                    technologies = listOf("Laravel (PHP Framework)", "Blade Templating Engine, Tailwind CSS", "MySQL", "Composer (PHP), npm (Node.js)", "Docker")
                 ),
                 Project(
                     title = "Aplikasi Pembelajaran",
