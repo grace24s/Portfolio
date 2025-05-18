@@ -71,19 +71,24 @@ class MainActivity : ComponentActivity() {
                     technologies = listOf("Laravel (PHP Framework)", "Blade Templating Engine, Tailwind CSS", "MySQL", "Composer (PHP), npm (Node.js)", "Docker")
                 ),
                 Project(
-                    title = "Aplikasi Pembelajaran",
-                    description = "Platform pembelajaran daring untuk siswa SMA dengan materi interaktif dan sistem kuis. Aplikasi ini membantu siswa untuk belajar secara mandiri dan mempersiapkan diri untuk ujian nasional.",
-                    technologies = listOf("Kotlin", "Jetpack Compose", "ExoPlayer", "Firebase")
+                    title = "PPKHA Website Project",
+                    description = "Website PPKHA Institut Teknologi Del adalah aplikasi web yang dikembangkan untuk mendukung kegiatan Pusat Pengembangan Karier dan Hubungan Alumni (PPKHA) di Institut Teknologi Del. Aplikasi ini bertujuan untuk memfasilitasi komunikasi antara alumni dan institusi, menyediakan informasi terkait lowongan kerja, serta mengelola data alumni secara efisien.",
+                    technologies = listOf("Laravel (PHP)", "Blade", "Tailwind CSS", "MySQL", "Composer (PHP), npm (Node.js)")
                 ),
                 Project(
-                    title = "Smart Home Controller",
-                    description = "Aplikasi untuk mengontrol perangkat rumah pintar melalui smartphone. Pengguna dapat mengatur lampu, AC, dan alat elektronik lainnya dengan mudah dari mana saja.",
-                    technologies = listOf("Kotlin", "Bluetooth API", "MQTT", "Material Design")
+                    title = "SMA N1 Balige Website Project",
+                    description = "PABWE PKM Proyek 2024 K2 adalah proyek kolaboratif yang dikembangkan oleh mahasiswa Institut Teknologi Del dalam mata kuliah Pengembangan Aplikasi Berbasis Web (PABWE). Proyek ini bertujuan untuk mengembangkan aplikasi web yang mendukung kegiatan Program Kreativitas Mahasiswa (PKM), dengan fokus pada pengelolaan data, kolaborasi tim, dan pelaporan kegiatan secara efisien.",
+                    technologies = listOf("Laravel (PHP)", "Blade", "Tailwind CSS", "MySQL", "Composer (PHP), npm (Node.js)")
                 ),
                 Project(
-                    title = "Task Manager",
-                    description = "Aplikasi manajemen tugas dengan fitur prioritas, deadline, dan notifikasi. Membantu pengguna untuk tetap terorganisir dan produktif dalam mengelola tugas sehari-hari.",
-                    technologies = listOf("Kotlin", "Room Database", "WorkManager", "Material Design")
+                    title = "Post App Project",
+                    description = "Posts adalah aplikasi web yang dikembangkan oleh Kelompok 8 dalam mata kuliah Pengembangan Aplikasi Berbasis Web (PABWE) tahun 2024 di Institut Teknologi Del. Aplikasi ini bertujuan untuk memungkinkan pengguna membuat, mengelola, dan menampilkan postingan secara dinamis. Dengan antarmuka yang responsif dan interaktif, pengguna dapat dengan mudah menambahkan konten, melihat daftar postingan, serta melakukan pengelolaan data secara efisien.",
+                    technologies = listOf("React.js", "CSS", "Vite", "npm (Node.js)")
+                ),
+                Project(
+                    title = "Portfolio",
+                    description = "Portfolio adalah aplikasi Android yang dikembangkan menggunakan Kotlin. Aplikasi ini bertujuan untuk menampilkan portofolio pribadi, yang mencakup informasi seperti profil, proyek, pengalaman kerja, dan keterampilan. Dengan antarmuka yang intuitif dan desain yang responsif, aplikasi ini memungkinkan pengguna untuk mempresentasikan informasi pribadi mereka secara profesional dan menarik.",
+                    technologies = listOf("Kotlin", "Android SDK", "Gradle", "Android Studio")
                 )
             ),
             hobbies = listOf(
