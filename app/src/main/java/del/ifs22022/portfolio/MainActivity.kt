@@ -67,7 +67,7 @@ class MainActivity : ComponentActivity() {
             projects = listOf(
                 Project(
                     title = "Sistem Informasi Manajemen Bimbingan Mahasiswa dan Perwalian (SIMBA) Website Project",
-                    description = "SIMBA (Sistem Informasi Manajemen Bimbingan Akademik) adalah aplikasi web berbasis Laravel yang dirancang untuk memfasilitasi proses bimbingan akademik antara dosen dan mahasiswa. Aplikasi ini memungkinkan mahasiswa untuk mengajukan bimbingan, mengunggah dokumen terkait, serta memantau status bimbingan mereka. Sementara itu, dosen dapat mengelola permintaan bimbingan, memberikan umpan balik, dan memantau perkembangan mahasiswa secara efisien.",
+                    description = "SIMBA (Sistem Informasi Manajemen Bimbingan Akademik) adalah aplikasi web berbasis Laravel yang dirancang untuk memfasilitasi proses bimbingan akademik antara mahasiswa, dosen, kemahasiswaan, keasramaan, konselor dan orang tua.",
                     technologies = listOf("Laravel (PHP Framework)", "Blade Templating Engine, Tailwind CSS", "MySQL", "Composer (PHP), npm (Node.js)", "Docker")
                 ),
                 Project(
